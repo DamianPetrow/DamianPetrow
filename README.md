@@ -5,7 +5,7 @@ I’m currently working at [Pluto Dev](https://www.youtube.com/@PlutonDev)
 
 
 ## 🗺️ Socials:
-<a href="https://www.youtube.com/c/plutondev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="plutondev" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@PlutonDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="plutondev" height="30" width="40" /></a>
 <a href="https://discord.gg/NU45pKBE2H" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="NU45pKBE2H" height="30" width="40" /></a>
 </p>
 
