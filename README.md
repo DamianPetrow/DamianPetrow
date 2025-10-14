@@ -17,3 +17,5 @@ I’m currently working at [Pluto Dev](https://www.youtube.com/@PlutonDev)
 - [90's Retro Communication Pack](https://www.youtube.com/watch?v=UifOZ1kOMQs)
 - [Unicorn Job](https://www.youtube.com/watch?v=emM8YKCgZVk)
 - [LASD based MDC system](https://www.youtube.com/watch?v=7iE75nvi1Yo)
+### 🌐 Web:
+- [DAVIS 90's (React+Tailwind website)](https://davis90s.pl)
