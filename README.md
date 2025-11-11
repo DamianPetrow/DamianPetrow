@@ -2,7 +2,7 @@
 
 ## 🪐 About Me:
 I’m currently working at [Pluto Dev](https://www.youtube.com/@PlutonDev)
-
+Use this coupon code to get -40% discount at Pluto Dev: **__ALLEY40__**
 
 ## 🗺️ Socials:
 <a href="https://www.youtube.com/@PlutonDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="plutondev" height="30" width="40" /></a>
