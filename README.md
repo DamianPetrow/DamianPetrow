@@ -16,6 +16,7 @@ Use this coupon code to get discount at Pluto Dev: **__ALLEY40__**
 ## 🔨 Projects:
 ### 🐌 FiveM:
 - [Drugs & Labs System V5](https://www.youtube.com/watch?v=TGbN4d8KP6g)
+- [Drug Selling V2](https://www.youtube.com/watch?v=6zPKAQo4q8k)
 - [90's Retro Communication Pack](https://www.youtube.com/watch?v=UifOZ1kOMQs)
 - [Unicorn Job](https://www.youtube.com/watch?v=emM8YKCgZVk)
 - [LASD based MDC system](https://www.youtube.com/watch?v=7iE75nvi1Yo)
