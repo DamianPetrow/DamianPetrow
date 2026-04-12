@@ -15,6 +15,7 @@ Use this coupon code to get discount at Pluto Dev: **__ALLEY40__**
 
 ## 🔨 Projects:
 ### 🐌 FiveM:
+- [Realistic Radio Script](https://www.youtube.com/watch?v=t7nldNnZ06s)
 - [Robbery & Heist Creator](https://www.youtube.com/watch?v=tHtqKNvYmp0)
 - [Drugs & Labs System V5](https://www.youtube.com/watch?v=TGbN4d8KP6g)
 - [Drug Selling V2](https://www.youtube.com/watch?v=6zPKAQo4q8k)
