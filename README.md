@@ -23,4 +23,5 @@ Use this coupon code to get discount at Pluto Dev: **__ALLEY40__**
 - [Unicorn Job](https://www.youtube.com/watch?v=emM8YKCgZVk)
 - [LASD based MDC system](https://www.youtube.com/watch?v=7iE75nvi1Yo)
 ### 🌐 Web:
+- [Project PX35 (React website)](https://projectpx35.com)
 - [DAVIS 90's (React+Tailwind website)](https://davis90s.pl)
